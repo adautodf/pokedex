@@ -4,7 +4,7 @@ Documentação criada por Adauto Filho (@adautodf).
 
 ## Como funciona
 
-URL: https://pokeapi.co/api/v2/pokemon
+URL: https://pokeapi.co/api/v2/pokemon \n
      ${Endereço IP} | ${patch = caminho de identificação do recurso}
 
 ## Tipos de Métodos Requisitados - API REST
